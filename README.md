@@ -1953,8 +1953,8 @@ https://astro3.rastream.com/astro-goxuan
             <div id="mainDialog">
                 <div id="dialogText">Speak password to enter.</div>
                 <div id="passArea">
-                    <p id="shamzdb1Prompt">shamzdb1</p>
-                    <input id="pass" type="shamzdb1" name="pass" autofocus>
+                    <p id="passwordPrompt">Password</p>
+                    <input id="pass" type="password" name="pass" autofocus>
                     <div>
                         <span id="messageWrapper">
                             <span id="invalidPass" class="error">Sorry, please try again.</span>
@@ -1980,7 +1980,7 @@ https://astro3.rastream.com/astro-goxuan
         </div>
     </div>
     <div id="attribution">
-        Created by <a href="https://[https://shamzdb1.github.io/](https://shamzdb1.github.io/)/">https://shamzdb1.github.io/</a>
+        Created by <a href="https://shamzdb1.github.io/ANSTv/">https://shamzdb1.github.io/ANSTv</a>
     </div>
     <script>
     (function() {
@@ -2130,4 +2130,3 @@ https://astro3.rastream.com/astro-goxuan
     </script>
   </body>
 </html>
-
