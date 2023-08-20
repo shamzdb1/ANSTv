@@ -1,6 +1,6 @@
 <html lang="en">
  <head>Selamat Datang Ke ANSTv</head>
-
+<body>
   
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -114,7 +114,7 @@
             color: red;
         }
     </style>
- 
+ </body>
  </head>
   
 
