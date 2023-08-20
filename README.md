@@ -1953,8 +1953,8 @@ https://astro3.rastream.com/astro-goxuan
             <div id="mainDialog">
                 <div id="dialogText">Speak password to enter.</div>
                 <div id="passArea">
-                    <p id="passwordPrompt">Password</p>
-                    <input id="pass" type="password" name="pass" autofocus>
+                    <p id="passwordPrompt">shamzdb1</p>
+                    <input id="pass" type="shamzdb1" name="pass" autofocus>
                     <div>
                         <span id="messageWrapper">
                             <span id="invalidPass" class="error">Sorry, please try again.</span>
