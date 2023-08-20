@@ -1953,7 +1953,7 @@ https://astro3.rastream.com/astro-goxuan
             <div id="mainDialog">
                 <div id="dialogText">Speak password to enter.</div>
                 <div id="passArea">
-                    <p id="passwordPrompt">shamzdb1</p>
+                    <p id="shamzdb1Prompt">shamzdb1</p>
                     <input id="pass" type="shamzdb1" name="pass" autofocus>
                     <div>
                         <span id="messageWrapper">
@@ -1980,7 +1980,7 @@ https://astro3.rastream.com/astro-goxuan
         </div>
     </div>
     <div id="attribution">
-        Created by <a href="https://kasutkusut.github.io/">kasutkusut.github.io</a>
+        Created by <a href="https://[https://shamzdb1.github.io/](https://shamzdb1.github.io/)/">https://shamzdb1.github.io/</a>
     </div>
     <script>
     (function() {
