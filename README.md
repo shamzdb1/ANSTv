@@ -1,10 +1,10 @@
 <html>
-  <head>IP•TV W•E•B
+  <head>IP•TV W•E•B </head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex, nofollow">
     <link rel="icon" type="image/x-icon" href="/u/12.png"> 
-  </head>
+ 
     
     <style>
         html, body {
