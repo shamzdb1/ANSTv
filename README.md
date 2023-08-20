@@ -4,7 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex, nofollow">
     <title>IP•TV W•E•B</title>
-    <link rel="icon" type="image/x-icon" href="/u/12.png">
+    <link rel="icon" type="image/x-icon" href="/u/12.png"> 
+  </head>
+    
     <style>
         html, body {
             margin: 0;
@@ -112,7 +114,6 @@
             color: red;
         }
     </style>
-  </head>
 </html>
 
   
